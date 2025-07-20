@@ -18,7 +18,8 @@ It is built with Streamlit for an interactive web interface.
 
 ## 📂 Project Structure
 
-project/
+project
+
 ├── app.py                   # Main  app
 ├── API_KEY.py               # File storing your OpenAI API key
 |__ Web_Scrapping_model.py   #File contain the web scrapping code 
