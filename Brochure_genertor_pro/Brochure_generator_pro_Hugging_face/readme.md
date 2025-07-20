@@ -11,13 +11,13 @@ This is a Streamlit-based web application that generates a **brochure-style summ
 
 ---
 ## 📂 Project Structure
-
+```
 project/
 ├── App.py                   # Main  app   
 |__ Web_Scrapper.py          # File contain the web scrapping code  
 ├── requirements.txt         # Python dependencies  
 └── README.md 
-
+```
 ---
 ## 🛠️ How It Works
 
