@@ -30,12 +30,13 @@ project
 
 ## 🛠 Installation
 
-1. Clone  repository
+1. Clone this  repository
+    git clone https://github.com/Mariam123Hamada/NLP_Projects.git
 
-2. Create a virtual environment
+3. Create a virtual environment
    python -m venv .venv
 
-3. Activate the virtual environment
+4. Activate the virtual environment
 
    Windows:
    .venv\Scripts\activate
@@ -43,7 +44,7 @@ project
    macOS/Linux:
    source .venv/bin/activate
 
-4. Install dependencies
+5. Install dependencies
    pip install -r requirements.txt
 
 ---
