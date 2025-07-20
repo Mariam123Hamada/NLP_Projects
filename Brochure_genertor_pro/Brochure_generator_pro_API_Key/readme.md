@@ -30,8 +30,9 @@ project
 
 ## 🛠 Installation
 
-1. Clone this  repository
+1. Clone  this  Repository
     git clone https://github.com/Mariam123Hamada/NLP_Projects.git
+   
 
 3. Create a virtual environment
    python -m venv .venv
