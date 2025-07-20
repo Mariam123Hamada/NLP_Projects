@@ -17,7 +17,7 @@ It is built with Streamlit for an interactive web interface.
 ---
 
 ## 📂 Project Structure
-
+```
 project
 
 ├── app.py                   # Main  app
@@ -25,7 +25,7 @@ project
 |__ Web_Scrapping_model.py   #File contain the web scrapping code 
 ├── requirements.txt         # Python dependencies
 └── README.md            
-
+```
 ---
 
 ## 🛠 Installation
